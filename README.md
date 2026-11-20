@@ -41,7 +41,6 @@ I enjoy exploring datasets, building analytical solutions, developing data-drive
 I'm always interested in connecting with people who share a passion for technology, data, and continuous learning.
 
 - 🌐 **Portfolio:** [Synapticlogic.vercel.app](https://synapticlogic.onrender.com/)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/Synapticlogic/)
 - 🐙 **GitHub:** [@Synapticlogic](https://github.com/Synapticlogic)
 
 ---
